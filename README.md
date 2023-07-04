@@ -12,6 +12,8 @@
 
 ## 📝 Document
 
+<p>This project is strictly for educational purposes only. I do not hold responsibility for how you use it.</p>
+
 ### Use Http proxies
 
 ---
