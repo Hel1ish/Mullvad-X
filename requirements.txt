@@ -1,0 +1,12 @@
+requests
+random
+string
+threading
+colorama
+os
+tkinter
+random
+sys
+ctypes
+time
+warnings
